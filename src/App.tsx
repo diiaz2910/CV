@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
+import "@mantine/core/styles.css";
 
 const App: React.FC = () => {
   return (
